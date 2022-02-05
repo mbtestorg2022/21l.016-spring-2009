@@ -49,14 +49,75 @@ Finally: You cannot participate well if you are asleep, nearly asleep, or woozy 
 Grading (approximate)
 ---------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Comparative short essay on a particular topic within two plays (5 pages) | 15% |
-| Analytic research paper (10 pages: first version 20%, revision 10%) | 30% |
-| Performance, group, and scene work | 15% |
-| 5-minute oral research presentation | 10% |
-| Self-assessments | 5% |
-| Active participation, including thorough reading of assigned materials before class, discussion in class and attendance at required writing tutorials | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Comparative short essay on a particular topic within two plays (5 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analytic research paper (10 pages: first version 20%, revision 10%)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance, group, and scene work
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-minute oral research presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessments
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active participation, including thorough reading of assigned materials before class, discussion in class and attendance at required writing tutorials
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Learning Objectives
 -------------------
