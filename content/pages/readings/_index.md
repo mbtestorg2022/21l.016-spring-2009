@@ -55,7 +55,7 @@ _Optional_
 
 Life of Galileo scene breakdown ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_galileo_scene))
 
-Book of Genesis. _The Holy Bible_, King James Edition, 1611. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_genesis))
+Book of Genesis. _The Holy Bible_, King James Edition, 1611. ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_genesis))
 
 
 {{< tdclose >}}
@@ -193,7 +193,7 @@ Specific assignments for each student from the writings of Bacon, Boyle, Burton,
 
 Bacon, Sir Francis. "Part L. Of Studies" from _The Essayes or Consels_ (1625); and Preface through Part XCIX and Part CXXX from _The New Organon_. In _Francis Bacon: A Selection of his Works_. New York, NY: Macmillan, 1977 (reprint). ISBN: 9780024245304.
 
-Boyle, Robert. Excerpt from "A Defense of the Doctrine Touching the Spring and Weight of the Air." Oxford England, 1662. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_016s09_read07_boyle_defense))
+Boyle, Robert. Excerpt from "A Defense of the Doctrine Touching the Spring and Weight of the Air." Oxford England, 1662. ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read07_boyle_defense))
 
 Boyle, Robert. Selections from _The Sceptical Chymist_. Chestnut Hill, MA: Adamant Media Corp, 2001. ISBN: 9780543916587.
 
