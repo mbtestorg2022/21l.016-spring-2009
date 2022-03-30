@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Image
 title: A Flea
 uid: 23c2ad92-6b38-ad6f-45e1-8807b8898d16

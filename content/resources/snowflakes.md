@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Image
 title: Snowflakes
 uid: 80379010-d529-572c-bb3b-3262ea94840e

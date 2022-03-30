@@ -5,6 +5,7 @@ description: Lecture notes on the history of cosmology, cosmology in ancient Gre
   Brahe and Johannes Kepler, and Galileo.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/84bb60e1f8a6044f937a9d8056731e0b_MIT21L_016s09_read01_baker_astronomy.pdf
 file_type: application/pdf
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: Notes on History of Cosmology
 uid: 84bb60e1-f8a6-044f-937a-9d8056731e0b

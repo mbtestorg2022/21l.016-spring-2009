@@ -4,6 +4,7 @@ description: Greivances presented to King Charles I of England by the English Pa
   on 1 December 1641.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/4b9252ed04cff1eacbde769a099c3d90_MIT21L_016s09_read15_remonstrance.pdf
 file_type: application/pdf
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: The Grand Remonstrance, with the Petition accompanying it
 uid: 4b9252ed-04cf-f1ea-cbde-769a099c3d90

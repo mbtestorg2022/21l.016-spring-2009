@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Image
 title: Housefly
 uid: 9a012885-f6f8-525c-1753-e634ba49cd30

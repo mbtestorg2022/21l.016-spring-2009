@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Image
 title: The Head of a Housefly
 uid: c557d706-a931-6160-6633-117f768fd35e

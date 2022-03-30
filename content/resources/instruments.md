@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Image
 title: Microscopy Setup
 uid: 106ca9bc-2fe9-bb86-d3ad-3b34517636d2
